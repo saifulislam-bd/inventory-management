@@ -143,7 +143,7 @@ export default async function DashboardPage() {
             </div>
           </div>
 
-          {/* Iventory over time */}
+          {/* Inventory over time */}
           <div className="bg-white rounded-lg border border-gray-200 p-6">
             <div className="flex items-center justify-between mb-6">
               <h2>New products per week</h2>
